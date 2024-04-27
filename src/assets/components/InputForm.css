@@ -1,0 +1,10 @@
+/* InputForm.css */
+.input-form {
+    padding: 5px 10px; /* Добавляем паддинг для поля ввода */
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 15px; /* Увеличиваем отступ сверху для сообщения об ошибке */
+  }
+  

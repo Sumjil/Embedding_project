@@ -1,0 +1,38 @@
+/* GameList.css */
+.GameList {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .GameList h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .GameList ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .GameList li {
+    margin-bottom: 10px;
+  }
+  
+  .GameList a {
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Добавляем transition для background-color и color */
+  }
+  
+  .GameList a:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
