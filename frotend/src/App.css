@@ -1,6 +1,6 @@
 /* App.css */
 .App {
-  max-width: 600px;
+  max-width: 80%;
   margin: 0 auto;
   padding: 20px;
   text-align: center;
@@ -13,7 +13,7 @@ h1 {
 
 /* ListofGames.css */
 .ListofGames {
-  max-width: 400px;
+  max-width: 80%px;
   margin: 0 auto;
   padding: 20px;
 }
